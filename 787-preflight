@@ -1,0 +1,64 @@
+
+## Route
+
+DET2G DET L6 DVR UL9 KONAN UL607 SPI T180 UNOKO UNOKO42
+
+## Ramp check
+
+- IRS (2) - ON
+- APU - AS REQ'D
+- FD DOOR POWER - ON
+- EMER LIGHTS - ARMED
+- WINDOW HEAT PRIMARY L&R (4) - ON
+- HYDRAULIC ELEC PUMPS (L-C1-C2-R) - ON
+- FUEL PUMPS (L-R FWD-AFT) - ON
+- FUEL CENTER PUMPS (if fuel in center tanks) - ON
+- WING ANTI-ICE - AUTO
+- ENG ANTI-ICE - AUTO
+- NAV & LOGO lights - ON
+- RECIRC FANS UPPER & LOWER - ON
+- PACK L & R - ON
+
+## CDU programming
+
+Click INIT REF - INDEX - IDENT
+
+### IDENT page
+
+### RTE page
+
+### DEP/ARR
+
+Enter DEP
+
+### RTE page 2
+
+Enter route
+
+Click DEP/ARR to enter ARR
+
+### ARR page
+
+Click back on RTE to confirm routing on page 2
+Follow line-select R6
+
+
+## THRUST LIM
+
+
+## TAKEOFF REF page
+
+Flaps 10-15-20
+
+Page 2 also
+
+## BEFORE START checklist
+
+
+Start APU, deselect EXT PWR
+
+ Lining up
+ Lights
+
+ ### Request higher
+ 
